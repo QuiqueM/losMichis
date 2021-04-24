@@ -21,4 +21,6 @@ Proyecto hecho para satisfacer la prueba tecnica.
 - Paso 9: Realiza las migraciones con los seeders con "php artisan migrate --seed"
 - Paso 10: Ejecuta el proyecto con "php artisan serve".
 
+El Diagrama de la base de datos se encuentra dentro de la carpeta public/db
+
 Desarrollado por [Enrique Martinez Rairez](https://quiquem.github.io/portafolio/)
